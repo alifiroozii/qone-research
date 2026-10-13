@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="qone-fav" x1="10" y1="10" x2="90" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#4F46E5" />
+      <stop offset="100%" stopColor="#06B6D4" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="#0F172A"/>
+  <circle cx="48" cy="48" r="28" stroke="url(#qone-fav)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 52 52 L 78 78" stroke="url(#qone-fav)" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="48" cy="48" r="10" fill="#06B6D4"/>
+  <circle cx="48" cy="48" r="4" fill="#FFFFFF"/>
+</svg>
